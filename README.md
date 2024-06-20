@@ -7,3 +7,5 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia - curso
 Pueden hacer lo que quieran...
 
 ### Actualizado desde Github web
+
+## Validando el pull ff
